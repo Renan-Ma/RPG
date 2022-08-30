@@ -33,7 +33,7 @@ function App() {
   return (
     <S.Container>
       <S.Map>
-        <Character x={char.x} y={char.y} />
+        <Character x={char.x} y={char.y} side={char.side} />
       </S.Map>
     </S.Container>
   );
