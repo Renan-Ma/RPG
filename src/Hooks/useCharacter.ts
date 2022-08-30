@@ -1,8 +1,7 @@
-import { posix } from "path";
 import React, { useState } from "react";
 
 const useCharacter = () => {
-  const [pos, setPos] = useState({ x: 1, y: 1 });
+  const [pos, setPos] = useState({ x: 2, y: 2 });
 
   const moveLeft = () => {
     setPos((pos) => ({
