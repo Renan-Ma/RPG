@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💻 Projeto RPG
 
 ### :dart: Objetivo do projeto
