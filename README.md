@@ -19,6 +19,10 @@ Acesse [clicando aqui](http://rpg-projeto-renan.surge.sh/).
 - Typescript
 - Styled-components
 
+### Imagem
+![image](https://user-images.githubusercontent.com/69327864/187700415-b528095b-f43b-4ba3-94a4-d0b6bec53081.png)
+
+
 ## :file_folder: Caso queira executar a aplicação localmente
 
 #### Clone do repositório
