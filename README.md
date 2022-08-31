@@ -43,6 +43,6 @@ $ npm install
 $ npm start
 ```
    
-## 👨‍💻 Desenvolvedor:
-   
-| [Renan Martinez](https://github.com/Renan-Ma) | 
+##  :man_technologist: Desenvolvedor
+| [<img src="https://avatars.githubusercontent.com/u/69327864?s=96&v=4" width=115><br><sub>Renan Alencar</sub>](https://github.com/Renan-Ma)
+| :---: | 
